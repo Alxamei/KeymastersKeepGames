@@ -72,6 +72,15 @@ class TinyBookshopGame(Game):
                 is_difficult=False,
                 weight=3,
             ),
+             GameObjectiveTemplate(
+                label="Sell NUMBER books at Far Beach",
+                data={
+                    "NUMBER": (self.booksellcount, 1),
+                },
+                is_time_consuming=True,
+                is_difficult=False,
+                weight=2,
+            ),
             GameObjectiveTemplate(
                 label="Earn NUMBER coins at LOCATION",
                 data={
@@ -81,6 +90,15 @@ class TinyBookshopGame(Game):
                 is_time_consuming=False,
                 is_difficult=False,
                 weight=3,
+            ),
+            GameObjectiveTemplate(
+                label="Earn NUMBER coins at Far Beach",
+                data={
+                    "NUMBER": (self.coinscount, 1),
+                },
+                is_time_consuming=True,
+                is_difficult=False,
+                weight=2,
             ),
             GameObjectiveTemplate(
                 label="Buy NUMBER items at the Flea Market",
@@ -164,7 +182,6 @@ class TinyBookshopGame(Game):
         return [
             "Waterfront Square",
             "Cafe Liberte",
-            "Far Beach",
             "Mega Marche",
             "the University",
             "the Lighthouse",
