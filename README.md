@@ -14,9 +14,9 @@ Game objectives listed by game and type. This should help you decide whether to 
 
 ### Tiny Bookshop
 - Sell (1-25) (random genre) books
-- Sell (30-200) books at (random location)
+- Sell (30-200) books at (random location) | Time for Far Beach
 - Purchase (1-16) boxes of books
-- Earn (50-1000) coins at (random location)
+- Earn (50-1000) coins at (random location) | Time for Far Beach
 - Buy (1-12) items at the Flea Market | Time
 - Attend the end of season event | Time
 - Recommend (5-50) (random genre) books | Time
