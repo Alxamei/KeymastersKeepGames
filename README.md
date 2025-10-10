@@ -7,7 +7,7 @@ Special thanks to Taco for their kmk set-up guide and general formatting!
 - Tiny Bookshop | [Objectives](#tiny-bookshop)
 
 ### WIP Games (Unfinished/Untested)
-None
+- Hades 2
 
 ## Game Objectives
 Game objectives listed by game and type. This should help you decide whether to include time-consuming or difficult objectives.
