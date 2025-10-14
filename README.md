@@ -19,7 +19,7 @@ Game objectives listed by game and type. This should help you decide whether to 
 - Earn (50-1000) coins at (random location) | Time for Far Beach
 - Buy (1-12) items at the Flea Market | Time
 - Attend the end of season event | Time
-- Recommend (5-50) (random genre) books | Time
+- Recommend (5-25) (random genre) books | Time & Difficult
 - Sell (30-200) books at (random weekly event) | Time
 - Sell (30-100) books in one day | Difficult
 - Purchase (1-8) seasonal items | Time & Difficult
