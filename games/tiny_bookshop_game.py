@@ -123,7 +123,7 @@ class TinyBookshopGame(Game):
                     "GENRE": (self.genres, 1),
                 },
                 is_time_consuming=True,
-                is_difficult=False,
+                is_difficult=True,
                 weight=2,
             ),
             GameObjectiveTemplate(
@@ -217,7 +217,7 @@ class TinyBookshopGame(Game):
     
     @staticmethod
     def genrereccount() -> range:
-        return range(5, 50)
+        return range(5, 25)
     
     @staticmethod
     def daysellcount() -> range:
