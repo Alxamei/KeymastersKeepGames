@@ -25,7 +25,8 @@ class TinyBookshopGame(Game):
     platform = KeymastersKeepGamePlatforms.PC
 
     platforms_other = [
-        KeymastersKeepGamePlatforms.SW
+        KeymastersKeepGamePlatforms.SW,
+        KeymastersKeepGamePlatforms.PS5,
     ]
 
     is_adult_only_or_unrated = False
