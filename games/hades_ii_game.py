@@ -28,6 +28,8 @@ class HadesIIGame(Game):
 	platforms_other = [
 		KeymastersKeepGamePlatforms.SW,
 		KeymastersKeepGamePlatforms.SW2,
+		KeymastersKeepGamePlatforms.PS5,
+		KeymastersKeepGamePlatforms.XSX,
 	]
 
 	is_adult_only_or_unrated = False
